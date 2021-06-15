@@ -4,11 +4,11 @@
   "private": true,
   "dependencies": {
     "glamor": "2.20.40",
-    "i18next": "19.8.0",
+    "i18next": "19.9.2",
     "react": "16.13.1",
     "react-copy-to-clipboard": "5.0.2",
     "react-dom": "16.13.1",
-    "react-i18next": "11.7.3",
+    "react-i18next": "11.11.0",
     "react-scripts": "3.4.3",
     "react-toastify": "5.5.0",
     "react-typed": "1.2.0",
@@ -36,18 +36,18 @@
   },
   "devDependencies": {
     "@types/jest": "25.2.3",
-    "@types/node": "12.12.62",
-    "@types/react": "16.9.50",
+    "@types/node": "12.20.15",
+    "@types/react": "16.14.8",
     "@types/react-copy-to-clipboard": "4.3.0",
     "@types/react-dom": "16.9.8",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
     "eslint": "6.8.0",
     "eslint-config-airbnb": "18.2.0",
-    "eslint-config-prettier": "6.12.0",
-    "eslint-plugin-prettier": "3.1.4",
-    "eslint-plugin-react": "7.21.3",
-    "prettier": "2.1.2",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-plugin-prettier": "3.4.0",
+    "eslint-plugin-react": "7.24.0",
+    "prettier": "2.3.1",
     "typescript": "3.9.7"
   }
 }
